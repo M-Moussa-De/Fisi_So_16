@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fisi_So_16", "Fisi_So_16\Fisi_So_16.csproj", "{1F4F740B-AFCA-455C-8369-0041C9060BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F4F740B-AFCA-455C-8369-0041C9060BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4F740B-AFCA-455C-8369-0041C9060BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4F740B-AFCA-455C-8369-0041C9060BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4F740B-AFCA-455C-8369-0041C9060BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E5E25E5-6E8E-481D-A6BA-781ADC983A56}
+	EndGlobalSection
+EndGlobal
